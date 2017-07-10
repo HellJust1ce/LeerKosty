@@ -19,7 +19,7 @@ public class TestFor {
         System.out.println(int1);
     }
     public static void main(String[] args) {
-        String[] arr = {"Gleb", "Kosty", "Max", "Serge"};
+        String[] arr = {"Gleb", "Kosty", "Max", "Serge","ssss"};
 
        /* for (int i = 0; i <= 3; i++) {
             System.out.print(arr[i] + " ");
